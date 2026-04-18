@@ -1,7 +1,7 @@
 # AirGuard-Intelligence-System
 A district-level triage system that fuses AQI, healthcare deficits, industrial hazard maps &amp; vulnerable population data into a single 0–100 risk score — built on Databricks Lakehouse.
 
-# 🫁 AirGuard — AI-Powered Pollution Impact & City Preparedness Intelligence System
+# AirGuard — AI-Powered Pollution Impact & City Preparedness Intelligence System
 
 > **What it does:** AirGuard fuses CPCB air quality data with NHP health infrastructure data to compute a city-level Preparedness Score — identifying which Indian cities are most at risk from pollution *and* least equipped to handle it. Mosaic AI (Llama 3.3 70B) generates actionable policy recommendations per city.
 
